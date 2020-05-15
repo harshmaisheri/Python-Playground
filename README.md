@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 pip install
 ```
 
-##Usage
+## Usage
 ```bash
 python3 <file_name>
 ```
